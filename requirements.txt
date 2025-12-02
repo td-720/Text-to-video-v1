@@ -1,0 +1,9 @@
+streamlit==1.27.0          # Streamlit for the web app
+diffusers==0.20.0          # Stable Diffusion image generation
+torch==2.2.0                # PyTorch backend for diffusers
+transformers==4.34.0        # Required by diffusers
+moviepy==1.0.3              # Video creation and editing
+gTTS==2.3.2                 # Google Text-to-Speech
+Pillow==10.1.0              # Image processing
+numpy==1.26.0               # Required by moviepy
+pyngrok==6.2.0              # Optional, for running Streamlit in Colab
