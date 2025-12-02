@@ -1,0 +1,9 @@
+streamlit          # Streamlit for the web app
+diffusers         # Stable Diffusion image generation
+torch               # PyTorch backend for diffusers
+transformers        # Required by diffusers
+moviepy              # Video creation and editing
+gTTS                # Google Text-to-Speech
+Pillow              # Image processing
+numpy               # Required by moviepy
+pyngrok              # Optional, for running Streamlit in Colab
