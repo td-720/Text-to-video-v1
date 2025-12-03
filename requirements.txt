@@ -1,0 +1,9 @@
+streamlit
+diffusers
+torch
+gTTS
+Pillow
+accelerate
+transformers
+imageio-ffmpeg
+moviepy==1.0.3
